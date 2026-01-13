@@ -13,7 +13,7 @@
 
 Добавление mainline-репозитория
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ1/1.png)
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ1/10.png)
 
 Установка mainline
 
