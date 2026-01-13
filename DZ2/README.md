@@ -15,3 +15,10 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/1.png)
 
+Создаем RAID 10 из 4 дисков, проверяем что RAID собрался
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/2.png)
+
+
+
+
