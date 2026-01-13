@@ -19,6 +19,7 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/2.png)
 
+Помечаем один диск как сбойный, смотрим статус диск дожен быть failure, затем удаляем его
 
-
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/3.png)
 
