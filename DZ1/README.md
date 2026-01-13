@@ -22,3 +22,8 @@
 Обновления ядра
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ1/3.png)
+
+Далее видим, что система использует старое ядро, после ребута должна использоваться новое
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ1/4.png)
+
