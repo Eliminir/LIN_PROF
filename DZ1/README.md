@@ -11,6 +11,6 @@
 
 # Выполнение
 
-
+![alt text](https://github.com/Eliminir/LIN_PROF/DZ1/1.JPG)
 
 
