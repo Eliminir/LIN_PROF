@@ -11,6 +11,8 @@
 
 # Выполнение
 
+# Создаем RAID 10, ломаем его, восстанавливаем
+
 Для выполнения этого задания плодим виртуальные диски и далее смотрим видит ли их ВМ
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/1.png)
@@ -19,7 +21,24 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/0.png)
 
-Помечаем один диск как сбойный, смотрим статус диск дожен быть failure, затем удаляем его
+Видис что с рейдом все хорошо
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/3.png)
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/4.png)
+
+"Ломаем" рейд
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/5.png)
+
+Добавляем диск обратно (восстанавливаем RAID)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/6.png)
+
+# Создание GPT таблицу и 5 разделов
+
+Создаем GPT таблицу, cоздаем 5 разделов по 800 мб
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/7.png)
+
+
+
 
