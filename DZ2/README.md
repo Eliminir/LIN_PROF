@@ -15,9 +15,9 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/1.png)
 
-Создаем RAID 10 из 4 дисков, проверяем что RAID собрался
+Создаем RAID 10
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/2.png)
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ2/0.png)
 
 Помечаем один диск как сбойный, смотрим статус диск дожен быть failure, затем удаляем его
 
