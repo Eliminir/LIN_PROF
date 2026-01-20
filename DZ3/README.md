@@ -26,3 +26,5 @@
 удалить часть файлов;
 
 восстановиться со снапшота.
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/1.png)
