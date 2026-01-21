@@ -27,4 +27,36 @@
 
 восстановиться со снапшота.
 
+
+Процесс уменьшения тома /:
+
+Создаётся LVM-том 8 ГБ на /dev/sdc
+
+pvcreate /dev/sdc
+vgcreate vg_root /dev/sdc
+lvcreate -n lv_root -L 8G /dev/vg_root
+
+Форматируется в ext4 и монтируется в /mnt/root
+
+mkfs.ext4 /dev/vg_root/lv_root
+mkdir /mnt/root
+mount /dev/vg_root/lv_root /mnt/root
+
+Копируется вся система на новый том
+
+rsync -avxHAX --progress / /mnt/root/
+
+Примонтируются системные директории
+
+for i in /proc/ /sys/ /dev/ /run/ /boot/; do sudo mount --bind "$i" "/mnt/root/$i"; done
+sudo chroot /mnt/root/
+
+Обновляется загрузчик и initramfs
+grub-mkconfig -o /boot/grub/grub.cfg
+update-initramfs -u
+
+После перезагрузки система запустится с нового тома нужного объема
+
+Скриншот части выполнения
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/1.png)
