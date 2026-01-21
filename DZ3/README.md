@@ -55,8 +55,10 @@ sudo chroot /mnt/root/
 grub-mkconfig -o /boot/grub/grub.cfg
 update-initramfs -u
 
+## Выделяем том под /home.
+
 После перезагрузки система запустится с нового тома нужного объема
 
-Скриншот части выполнения
+Скриншот части выполнения команд
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/1.png)
