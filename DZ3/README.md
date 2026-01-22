@@ -55,10 +55,38 @@ sudo chroot /mnt/root/
 grub-mkconfig -o /boot/grub/grub.cfg
 update-initramfs -u
 
-## Выделяем том под /home.
-
 После перезагрузки система запустится с нового тома нужного объема
 
 Скриншот части выполнения команд
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/1.png)
+
+Проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/2.png)
+
+ ## Выделяем том под /home.
+ 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/3.png)
+
+ ## Выделяем том под /var - делаем в mirror.
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/4.png)
+
+ ## /home - делаем для снапшотов.
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/5.png)
+
+ ##  Прописываю монтирование в fstab
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/6.png)
+
+ ## Работа с снапшотами
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/7.png)
+ 
+
+
+
+
+
