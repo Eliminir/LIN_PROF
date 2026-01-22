@@ -85,6 +85,12 @@ update-initramfs -u
 
  ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/7.png)
  
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/8.png)
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/9.png)
+
+ ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ3/10.png)
+ 
 
 
 
