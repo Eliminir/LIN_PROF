@@ -36,5 +36,13 @@
    ## Решение
 
    Создание пула и файловых систем с разными алгоритмами сжатия, далее определение настроек пула и файловых систем
+   
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/1.png)
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/2.png)
+
+Тестирование сжатия
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/3.png)
+
+
+
+
