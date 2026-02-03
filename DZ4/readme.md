@@ -41,7 +41,15 @@
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/2.png)
 
 Тестирование сжатия
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/3.png)
+
+Работа со снапшотами
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ4/4.png)
+
+
+
 
 
 
