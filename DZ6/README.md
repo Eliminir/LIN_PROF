@@ -24,3 +24,13 @@
 вход в систему через recovery мод
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/3.png)
+
+
+Способ 2
+В меню GRUB выбираем нужное ядро и нажимаем E
+Находим строку, начинающуюся с linux или linuxefi
+В конец строки добавляем: init=/bin/bash жмем Ctrl+X
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/4.png)
+
+
