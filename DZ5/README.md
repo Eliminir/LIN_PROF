@@ -23,3 +23,7 @@
 Проверяем наличие слушающих портов 2049/udp, 2049/tcp,111/udp, 111/tcp 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/1.png)
+
+Создание и настройка директории для экспорта
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/2.png)
