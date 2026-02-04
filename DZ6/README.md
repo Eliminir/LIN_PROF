@@ -34,13 +34,13 @@
 
 В конец строки добавляем: init=/bin/bash жмем Ctrl+X
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/4.png)
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/5.png)
 
 Установить систему с LVM, после чего переименовать VG
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/5.png)
-
-
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/6.png)
 
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/7.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/8.png)
