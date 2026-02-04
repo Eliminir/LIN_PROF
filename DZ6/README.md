@@ -36,4 +36,11 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/4.png)
 
+Установить систему с LVM, после чего переименовать VG
 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/5.png)
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/6.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/7.png)
