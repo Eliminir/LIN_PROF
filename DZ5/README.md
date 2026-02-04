@@ -34,3 +34,6 @@
 
 Настройка клиента
 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/4.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/5.png)
