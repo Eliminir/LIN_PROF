@@ -20,6 +20,8 @@
 
 Выполнение
 
+Настройка сервера
+
 Проверяем наличие слушающих портов 2049/udp, 2049/tcp,111/udp, 111/tcp 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/1.png)
@@ -29,4 +31,6 @@
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/2.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/3.png)
+
+Настройка клиента
 
