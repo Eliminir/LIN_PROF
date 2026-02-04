@@ -27,3 +27,6 @@
 Создание и настройка директории для экспорта
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/2.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ5/3.png)
+
