@@ -18,3 +18,9 @@
 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/2.png)
+
+вход в систему через recovery мод
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/3.png)
