@@ -15,3 +15,6 @@
 Установить систему с LVM, после чего переименовать VG.
 
 Решение:
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/1.png)
