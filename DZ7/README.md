@@ -25,3 +25,9 @@ cоздать свой репозиторий и разместить там р�
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/1.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/2.png)
+
+Сборка модуля ngx_brotli
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/3.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/4.png)
