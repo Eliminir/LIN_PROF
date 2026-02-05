@@ -46,6 +46,7 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/8.png)
 
+
 Проверяем все ли ок
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/9.png)
