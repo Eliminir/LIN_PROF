@@ -33,6 +33,7 @@
 Находим строку, начинающуюся с linux или linuxefi
 
 В конец строки добавляем: init=/bin/bash жмем Ctrl+X
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/4.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/5.png)
 
@@ -42,5 +43,9 @@
 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/7.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/8.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/9.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ6/8.png)
