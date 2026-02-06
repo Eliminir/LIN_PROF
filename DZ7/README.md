@@ -31,3 +31,30 @@ cоздать свой репозиторий и разместить там р�
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/3.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/4.png)
+
+ Редактируем spec-файл Nginx 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/5.png)
+
+приступаем к сборке RPM пакета
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/6.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/7.png)
+
+Создаем свой репозиторий и размещаем там ранее собранный RPM
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/8.png)
+
+меняем конфиг nginx, перезапускаем и проверяем наш кокальный репозиторий
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/9.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/10.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/11.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/12.png)
+
+
+
