@@ -56,5 +56,7 @@ cоздать свой репозиторий и разместить там р�
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/12.png)
 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ7/14.png)
+
 
 
