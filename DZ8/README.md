@@ -19,5 +19,7 @@
 
 Доработать unit-файл Nginx (nginx.service) для запуска нескольких инстансов сервера с разными конфигурационными файлами одновременно.
 
+## Решение
+
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/1.png)
