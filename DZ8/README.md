@@ -21,5 +21,23 @@
 
 ## Решение
 
+Создание файла конфигурации в /etc/default
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/1.png)
+
+Создание тестового лог-файла
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/2.png)
+
+Создание скрипта для мониторинга
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/3.png)
+
+Создание юнита для сервиса/таймера
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/4.png)
+
+проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/5.png)
+
