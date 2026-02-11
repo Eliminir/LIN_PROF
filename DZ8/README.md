@@ -41,3 +41,35 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/5.png)
 
+## Часть 2
+
+Создание конфигурации \ unit-файла
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/6.png)
+
+запуск сервиса 
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/7.png)
+
+## Часть 3
+
+Манипуляции с nginx/создаем шаблонный unit-файл
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/8.png)
+
+Создаем базовую конфигу
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/9.png)
+
+Создаем конфиги для первого и второго инстанса
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/10.png)
+
+перезапускаем сервисы и проверяем работу статус, порты и бла бла
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/11.png)
+
+Добавляем в атозагрузку, проверяем процессы 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ8/12.png)
