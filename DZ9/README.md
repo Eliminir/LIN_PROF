@@ -41,3 +41,8 @@ HTTP-коды ответов с указанием их количества (с
 Проверка
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/5.png)
+
+скрипт отрабатывает верно, пароль приложения в Яндексе менял, скрипт менял. В общем яндекес побороть не смог( что-то им не понравилось
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/6.png)
+
