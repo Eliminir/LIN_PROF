@@ -27,3 +27,17 @@ HTTP-коды ответов с указанием их количества (с
 
 Создаем скрипт делаем исполняемым и бла бла
 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/2.png)
+
+Настройка CRON
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/3.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/4.png)
+
+Проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ9/5.png)
