@@ -26,3 +26,32 @@
 
 
 ### Часть 2: DNS с Dynamic Updates
+
+Клонируем репозиторий
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/5.png)
+
+Настраиваем конфигу BIND
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/6.png)
+
+Запускаем named и проверяем статус
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/7.png)
+
+Инициируем блокировку SELinux
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/8.png)
+
+Указываем SELinux, что все файлы внутри /etc/named должны иметь тип named_zone_t
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/9.png)
+
+Проверка работы
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ11/10.png)
+
+
+
+
+
