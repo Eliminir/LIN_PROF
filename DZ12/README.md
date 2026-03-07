@@ -29,3 +29,7 @@
 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ12/2.png)
+
+тыкаем в ранее созданный плейбук, проверяем что nginx завелся как нам надо 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ12/3.png)
