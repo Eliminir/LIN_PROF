@@ -21,4 +21,11 @@
 сайт должен слушать на нестандартном порту — 8080, для этого использовать переменные в Ansible.
 
 
+установка Ansible
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ12/1.png)
+
+Создаем tasks/main.yml; handlers/main.yml; vars/main.yml с портом 8080; шаблон конфигурации nginx; плейбук.
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ12/2.png)
