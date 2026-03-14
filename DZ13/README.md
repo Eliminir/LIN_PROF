@@ -46,5 +46,13 @@
 
 Добавляет записи в /etc/fstab для автоматического монтирования при загрузке.
 
+Выполнение
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ13/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ13/2.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ13/3.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ13/4.png)
+
