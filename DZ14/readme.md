@@ -21,9 +21,23 @@
 
 Ответьте на вопрос: Можно ли в контейнере собрать ядро?
 
-1 проверка\установка docker
+проверка\установка docker
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ14/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ14/2.png)
 
 
-2 сборка
+сборка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ14/3.png)
 
 проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ14/4.png)
+
+ Разница между образом и контейнером: Образ – это шаблон (например, файл с программой и настройками), контейнер – это запущенный экземпляр образа.
+
+Можно ли в контейнере собрать ядро?
+
+Да, можно. Для этого контейнер нужно запустить в привилегированном режиме --privileged
