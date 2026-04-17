@@ -30,4 +30,31 @@ elk.
 
 Решение
 
+Конфига nginx и прочего на web
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/2.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/3.png)
+
+настройки на log
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/4.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/5.png)
+
+Проверка
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/6.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ16/7.png)
+
+
+
+
+
+
+
