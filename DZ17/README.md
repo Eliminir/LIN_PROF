@@ -35,3 +35,24 @@
 Создание отдельного диска для бэкапов
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/1.png)
+
+Работа с пользователем borg
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/2.png)
+
+Теперь переходим к Client серверу
+
+Работа с Borg на Client настройка SSH
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/3.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/4.png)
+
+Создаем тестовый бекап
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/5.png)
+
+Создаем скрипт бэкапа
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/6.png)
+
