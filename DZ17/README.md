@@ -32,4 +32,6 @@
 
 ## Решение
 
+Создание отдельного диска для бэкапов
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/1.png)
