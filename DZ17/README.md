@@ -56,3 +56,11 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/6.png)
 
+проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/7.png)
+
+Создаем service\timer\Настраиваем ротацию логов, далее финальная проверка что все проделанное работает
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ17/8.png)
+
