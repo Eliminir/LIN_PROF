@@ -23,3 +23,7 @@
 
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ20/1.png)
+
+Как выглядит финал + лог с PXE
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ20/2.png)
