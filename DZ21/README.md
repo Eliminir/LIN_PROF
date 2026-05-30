@@ -35,3 +35,7 @@ Klient:
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/5.png)
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/6.png)
+
+Показываю что RAS работает:
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/7.png)
