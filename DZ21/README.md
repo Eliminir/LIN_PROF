@@ -26,3 +26,12 @@ Server:
 
 Klient:
 
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/3.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/4.png)
+
+Проверка:
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/5.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/6.png)
