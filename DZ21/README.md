@@ -17,4 +17,12 @@
 
 2)Поднять RAS на базе OpenVPN с клиентскими сертификатами, подключиться с локальной машины на ВМ
 
+Server:
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/1.png)
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ21/2.png)
+
+Klient:
+
