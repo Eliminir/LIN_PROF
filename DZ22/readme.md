@@ -41,3 +41,5 @@ www - смотрит на обоих клиентов
 клиент2 видит только dns.lab
 
 настроить все без выключения selinux*
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
