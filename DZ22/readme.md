@@ -42,4 +42,8 @@ www - смотрит на обоих клиентов
 
 настроить все без выключения selinux*
 
+ns01
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
+
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
