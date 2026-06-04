@@ -24,3 +24,6 @@
 
 сделать один из линков "дорогим", но что бы при этом роутинг был симметричным.
 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ23/1.png)
+
