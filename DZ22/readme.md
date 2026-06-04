@@ -40,10 +40,15 @@ www - смотрит на обоих клиентов
 
 клиент2 видит только dns.lab
 
-настроить все без выключения selinux*
 
 ns01
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
 
-![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
+APX
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/2.png)
+
+klient 01\02
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/3.png)
