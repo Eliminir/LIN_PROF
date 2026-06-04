@@ -38,7 +38,7 @@ ns01
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/1.png)
 
-APX
+
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ22/2.png)
 
