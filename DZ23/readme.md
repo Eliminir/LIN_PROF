@@ -27,3 +27,11 @@
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ23/1.png)
 
+Асимметричный роутинг
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ23/2.png)
+
+делаем один из линков "дорогим" при этом роутинг симметричный
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ23/3.png)
+
