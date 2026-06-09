@@ -33,3 +33,5 @@ testClient2 <-> testServer2
 Между centralRouter и inetRouter "пробросить" 2 линка (общая inernal сеть) и объединить их в бонд, проверить работу c отключением интерфейсов
 
 Настройка bonding на inetRouter
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/1.png)
