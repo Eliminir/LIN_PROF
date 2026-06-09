@@ -35,3 +35,21 @@ testClient2 <-> testServer2
 Настройка bonding на inetRouter
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/1.png)
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/2.png)
+
+На centralRouter 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/3.png)
+
+VLAN изоляция: 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/4.png)
+
+Bonding статус
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ24/5.png)
+
+
+
+
