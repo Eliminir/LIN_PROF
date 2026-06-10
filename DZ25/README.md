@@ -11,3 +11,6 @@
 
 Установить FreeIPA
 Написать Ansible-playbook для конфигурации клиента
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ25/1.png)
