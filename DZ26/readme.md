@@ -20,4 +20,6 @@
 - На хостовой системе через конфиги в `/etc`
 - Деплой через **docker-compose**
 
+- ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ26/1.png)
+
 
