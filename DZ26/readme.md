@@ -28,3 +28,14 @@ docker-compose
 сайты
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ26/2.png)
+
+порты
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ26/3.png)
+
+финальная проверка
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ26/4.png)
+
+
+
