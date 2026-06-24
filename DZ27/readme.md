@@ -28,3 +28,15 @@
 | outcome
 
 ![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ27/1.png)
+
+Проверяем подключение с реплики к мастеру 
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ27/2.png)
+
+Проверка репликации
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ27/3.png)
+
+
+![alt text](https://github.com/Eliminir/LIN_PROF/blob/main/DZ27/4.png)
+
